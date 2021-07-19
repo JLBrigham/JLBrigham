@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Joanna, a Junior Software Developer
+
+I've recently graduated from Makers Academy and am actively looking for my first role in tech.
+
+Take a look at my [CV](https://github.com/JLBrigham/CV) and [blog](https://joannabrigham.medium.com/).
 
 <!--
 **JLBrigham/JLBrigham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
