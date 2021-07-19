@@ -1,4 +1,4 @@
-### Hi there, I'm Joanna, a Junior Software Developer
+### Hi there, I'm Joanna, a Junior Software Developer 😄
 
 I've recently graduated from Makers Academy and am actively looking for my first role in tech.
 
