@@ -1,6 +1,6 @@
-### Hi there, I'm Joanna, a Junior Software Developer 😄
+### Hi there, I'm Joanna 😄
 
-I've recently graduated from Makers Academy and am actively looking for my first role in tech.
+I've recently graduated from Makers Academy and am actively looking for a new job role.
 
 Take a look at my [CV](https://github.com/JLBrigham/CV) and [blog](https://joannabrigham.medium.com/).
 
