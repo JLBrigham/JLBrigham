@@ -1,6 +1,6 @@
 ### Hi there, I'm Joanna 😄
 
-I've recently graduated from Makers Academy and am actively looking for a new job role.
+I've studied at Makers Academy and am actively looking to make a career change which incorporates the skills I've learnt.
 
 Take a look at my [CV](https://github.com/JLBrigham/CV) and [blog](https://joannabrigham.medium.com/).
 
